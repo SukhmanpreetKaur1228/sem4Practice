@@ -9,6 +9,7 @@ package week1;
  *
  * @author sivagamasrinivasan
  */
+//hello
 public class StudentDetail 
 {
 private String name;  
